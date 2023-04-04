@@ -1,0 +1,4 @@
+Maria 17 12 8
+Alex 1 2 1
+Andreea 13 0 0
+Manuela 15 2 1
